@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{4921C86F-44C6-4ABA-9B0C-ED478957DD9A}|Default">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F81A5551-6ED7-4F08-94A6-C2E50E742D43" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="index.html">
+    <Files>
+      <File FileName="MainPage.xaml.cs" />
+      <File FileName="MainPage.xaml" />
+      <File FileName="index.html" Line="23" Column="8" />
+      <File FileName="index2.html" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OpenNewWindowFromWebview" expanded="True">
+            <Node name="OpenNewWindowFromWebview" expanded="True">
+              <Node name="index.html" selected="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.OpenNewWindowFromWebview PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F81A5551-6ED7-4F08-94A6-C2E50E742D43" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
